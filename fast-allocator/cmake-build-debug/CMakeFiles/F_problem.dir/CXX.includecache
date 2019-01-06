@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/AShepelev/Documents/Programming/II/C++/fast-allocator/fastallocator.h
+memory
+-
+utility
+-
+new
+-
+
+/Users/AShepelev/Documents/Programming/II/C++/fast-allocator/main.cpp
+chrono
+-
+stdexcept
+-
+string
+-
+list
+-
+vector
+-
+iostream
+-
+fastallocator.h
+/Users/AShepelev/Documents/Programming/II/C++/fast-allocator/fastallocator.h
+

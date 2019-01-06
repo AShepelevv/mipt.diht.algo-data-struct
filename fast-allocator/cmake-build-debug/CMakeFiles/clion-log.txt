@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/AShepelev/Documents/Programming/II/C++/fast-allocator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/AShepelev/Documents/Programming/II/C++/fast-allocator/cmake-build-debug

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/AShepelev/Documents/Programming/II/C++/implicit-treap/main.cpp
+utility
+-
+iostream
+-
+vector
+-
+functional
+-
+fstream
+-
+
